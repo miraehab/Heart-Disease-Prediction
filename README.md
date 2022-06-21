@@ -1,4 +1,5 @@
 # Heart Disease Prediction <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/undefined/external-prediction-smart-technology-flaticons-flat-flat-icons.png"/>
+
 This is a model to predict heart disease using Dataset from Kaggle: <a href="https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction">Heart Failure Prediction Dataset</a>
 
 <h2>Machine learning Algorithms used:</h2>
